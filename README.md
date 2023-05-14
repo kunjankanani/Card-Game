@@ -4,9 +4,10 @@
   <h2>OVERVIEW OF PROJECT</h2>
 </div>
 
-[Card Game Document](https://github.com/kunjankanani/Card-Game/tree/main/Card-Game-%5BOur_Document%5D)
+## Demo Video 👇 <br>
 
-[Project Report](https://github.com/kunjankanani/Card-Game/blob/main/Card-Game-%5BOur_Document%5D/Card-Game-Report.pdf)
+
+https://github.com/kunjankanani/Card-Game/assets/115248453/3c8d8aec-3024-41b2-8e6c-2d137a6aa9ec
 
 
 
